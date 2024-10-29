@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Samsung Galaxy Watch 6",
+      "price": 350
+    },
+    {
+      "id": 2,
+      "name": "Apple Watch Series 9",
+      "price": 399
+    },
+    {
+      "id": 3,
+      "name": "Mi Watch Revolve Active",
+      "price": 120
+    },
+    {
+      "id": 4,
+      "name": "Garmin Fenix 7",
+      "price": 700
+    },
+    {
+      "id": 5,
+      "name": "Fossil Gen 6",
+      "price": 299
+    }
+  ]
+  
